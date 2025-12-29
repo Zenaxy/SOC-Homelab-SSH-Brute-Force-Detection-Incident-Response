@@ -127,7 +127,3 @@ The rule is effective for:
 * Entry-level SOC monitoring
 * Threat hunting exercises
 * Detection engineering practice
-
-
-Balas saja:
-**“LANJUT REPO 3”** atau **“UPGRADE RULE”**
