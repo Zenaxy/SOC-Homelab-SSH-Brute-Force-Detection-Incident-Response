@@ -1,10 +1,3 @@
-siap 👍
-kita bikin **Repo #2** dengan **rapi, SOC-oriented, dan konsisten** sama yang barusan kamu kerjain.
-
-Aku mulai dari **README.md FINAL** yang **tinggal copy–paste ke GitHub**.
-
----
-
 # 🛡️ SOC Homelab – SSH Brute Force Detection & Incident Response (Splunk)
 
 ## 📌 Overview
